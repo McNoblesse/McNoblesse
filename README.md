@@ -29,6 +29,8 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=McNoblesse&show_icons=true&theme=radical" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McNoblesse&layout=compact&theme=radical" /> </p>
 
 ### 📫 Let’s Connect!
-💼 LinkedIn
+```yaml
+💼 LinkedIn: https://www.linkedin.com/in/joshua-oluwole-noblesse
 💌 Email: nobleindepth@gmail.com
-📞 +2348085631164
+📞 Call: +2348085631164
+```
