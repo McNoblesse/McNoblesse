@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Noblesse Josh</h1>
+<h1 align="center">Hi there 👋, I'm Joshua Oluwole</h1>
 <h3 align="center">🚀 AI Engineer | 🧠 Data Scientist | 💻 HealthTech Innovator</h3>
 
 ---
